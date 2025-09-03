@@ -11,6 +11,6 @@ config_version=5
 [application]
 
 config/name="RunnerDino"
-run/main_scene="res://scenes/bg.tscn"
+run/main_scene="uid://lm8kc1jcembm"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
